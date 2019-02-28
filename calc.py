@@ -15,4 +15,6 @@ calc = Calc()
 
 print(calc.soma(15, 25))
 
+print('\n ------------------------- \n')
+
 print(calc.sub(15, 25))
