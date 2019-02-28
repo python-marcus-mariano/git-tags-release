@@ -5,12 +5,12 @@ class Calc():
     """Modulo cal"""
     def soma(self, x: int, y: int):
         """Modulo cal"""
-        return x + y
-    
+        return 'A soma é:', x + y
+
     def sub(self, x: int, y: int):
         """Modulo cal"""
-        return x - y
-    
+        return 'A sub é:', x - y
+
 calc = Calc()
 
 print(calc.soma(15, 25))
